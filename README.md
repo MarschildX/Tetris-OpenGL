@@ -6,7 +6,8 @@ _A very very simple and crude Tetris game. Please don't give it too much expecta
 It's so simple that I don't want give it too much introduction. But I still will give the overview UI and keys operation. 
 
 ### Here is the whole UI. 
-<img src="" height="430" width="240">
+
+<img src="Tetris/images/overview.png" height="430" width="240">
 
 As you see, it's simple simple and simple!!! 
 
