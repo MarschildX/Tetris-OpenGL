@@ -15,4 +15,10 @@ As you see, it's simple simple and simple!!!
 
 `q` : exit the game;
 
-`w` : up
+`w` : change the direction of toy bricks
+
+`s` : move down faster
+
+`a` : move left
+
+`d` : move right
